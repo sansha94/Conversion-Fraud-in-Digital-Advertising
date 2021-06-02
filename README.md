@@ -1,12 +1,8 @@
 ## Conversion-Fraud-in-Digital-Advertising
 
 * [Problem Statement](#problem-statement)
-<<<<<<< HEAD
-* []
-=======
 
 * [Data Dictionary](#data-dictionary)
->>>>>>> 2be748bfc197ad907a0d3e942b99b867d3784c0a
 
 ### Problem Statement
 
@@ -22,11 +18,7 @@ imprId (Click Log) and imprid_cr (Conversion Log - Test and Train Data)
 
 (Use click log data for additional data required for identifying conversion fraud)
 
-<<<<<<< HEAD
-### Data dictionary
-=======
 ### Data Dictionary
->>>>>>> 2be748bfc197ad907a0d3e942b99b867d3784c0a
 
 #### Essential Columns
 
